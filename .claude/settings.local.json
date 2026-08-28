@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /tmp/page.html /tmp/headers.txt 2>&1)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
