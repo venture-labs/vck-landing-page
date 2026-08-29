@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(ls -la /tmp/page.html /tmp/headers.txt 2>&1)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(grep -o \"Check the Contact section below to stay in the loop for our return\\\\..\\\\{0,60\\\\}\" index.html)"
     ]
   }
 }
