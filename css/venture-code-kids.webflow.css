@@ -2160,6 +2160,13 @@ textarea.w-input, textarea.w-select {
   color: #fc6161;
 }
 
+.body-text.body-text--link.body-text--credit {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  align-self: flex-start;
+}
+
 .navbar__content {
   justify-content: space-between;
   align-items: center;
